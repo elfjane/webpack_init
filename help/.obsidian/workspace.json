@@ -25,14 +25,38 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "002 other install.md",
+                "file": "003 file-loader.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "61137de33db43ff5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "001 first.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "d78b0b2fc65cbf5a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "006 sass-loader.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -98,7 +122,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "002 other install.md",
+                "file": "006 sass-loader.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +139,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "002 other install.md",
+                "file": "006 sass-loader.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +162,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "002 other install.md"
+                "file": "006 sass-loader.md"
               }
             }
           }
@@ -159,9 +183,15 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a612855f0a3a79b3",
+  "active": "74a18e106ac5b040",
   "lastOpenFiles": [
+    "005 PostCSS autoprefixer CSS 相容性.md",
+    "006 sass-loader.md",
+    "004 css & sass loader.md",
+    "003 file-loader.md",
+    "002 env.md",
     "001 first.md",
-    "002 other install.md"
+    "Untitled",
+    "002 env"
   ]
 }

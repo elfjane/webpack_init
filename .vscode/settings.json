@@ -1,0 +1,8 @@
+{
+    "files.trimTrailingWhitespace": true,
+    "liveServer.settings.donotVerifyTags": true,
+    "liveServer.settings.host": "localhost",
+    "liveServer.settings.port": 0,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "liveServer.settings.root": "dist"
+}
