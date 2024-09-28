@@ -54,9 +54,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "d11f9b24109d4c3d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "007 img.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -122,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "006 sass-loader.md",
+                "file": "007 img.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -139,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "006 sass-loader.md",
+                "file": "007 img.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -162,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "006 sass-loader.md"
+                "file": "007 img.md"
               }
             }
           }
@@ -183,12 +195,13 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "74a18e106ac5b040",
+  "active": "d11f9b24109d4c3d",
   "lastOpenFiles": [
-    "005 PostCSS autoprefixer CSS 相容性.md",
-    "006 sass-loader.md",
-    "004 css & sass loader.md",
     "003 file-loader.md",
+    "007 img.md",
+    "006 sass-loader.md",
+    "005 PostCSS autoprefixer CSS 相容性.md",
+    "004 css & sass loader.md",
     "002 env.md",
     "001 first.md",
     "Untitled",

@@ -37,6 +37,12 @@ module.exports = {
                     }
                 ]
             }, {
+                test: /\.(png|jpe?g|gif)$/i,
+                type: 'asset/resource',  // Webpack 5 推薦的圖片處理方式
+                generator: {
+                    filename: 'img/event/mos_prereg/[name][ext]',  // 定義輸出圖片的目錄和命名
+                },
+            }, {
                 test: /\.s[ac]ss$/i,
                 use: [
                     // Creates `style` nodes from JS strings
