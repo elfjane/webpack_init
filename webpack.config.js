@@ -1,4 +1,5 @@
 const path = require('path');
+const HtmlWebpackPlugin = require("html-webpack-plugin");
 
 console.log("resolve:", path.resolve(__dirname, "./src"));
 
@@ -14,11 +15,11 @@ module.exports = {
     module: {
         rules: [
             {
-                test: /\.(html|htm)$/i,
-                loader: 'file-loader',
-                options: {
-                    name: '[path][name].[ext]',
-                },
+                // test: /\.(html|htm)$/i,
+                // loader: 'file-loader',
+                // options: {
+                //     name: '[path][name].[ext]',
+                // },
             }, {
                 test: /\.css$/,
                 exclude: /node_modules/,
@@ -54,5 +55,14 @@ module.exports = {
                 ],
             },
         ],
-    }
+    },
+    plugins: [
+        new HtmlWebpackPlugin({
+            title: "index template",
+            // Load a custom template (lodash by default)
+            filename: './index.html',
+            template: './html/index/index.html',
+            chunks: ['index'],
+        }),
+    ],
 };

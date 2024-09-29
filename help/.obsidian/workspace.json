@@ -66,9 +66,21 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "e819beb1cf276571",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "008 HTML Webpack Plugin.md",
+                "mode": "source",
+                "source": false
+              }
+            }
           }
         ],
-        "currentTab": 4
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -134,7 +146,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "007 img.md",
+                "file": "008 HTML Webpack Plugin.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +163,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "007 img.md",
+                "file": "008 HTML Webpack Plugin.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -174,7 +186,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "007 img.md"
+                "file": "008 HTML Webpack Plugin.md"
               }
             }
           }
@@ -195,10 +207,11 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "d11f9b24109d4c3d",
+  "active": "e819beb1cf276571",
   "lastOpenFiles": [
-    "003 file-loader.md",
     "007 img.md",
+    "008 HTML Webpack Plugin.md",
+    "003 file-loader.md",
     "006 sass-loader.md",
     "005 PostCSS autoprefixer CSS 相容性.md",
     "004 css & sass loader.md",

@@ -1,7 +1,7 @@
 import "../scss/index.scss";
 //import "../css/index.css";
 //import * as css from "../css/index.css";
-import "../index.html";
+//import "../index.html";
 function component() {
   const element = document.createElement('div');
 
